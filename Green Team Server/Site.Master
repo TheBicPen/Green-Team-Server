@@ -38,7 +38,7 @@
             </Scripts>
         </asp:ScriptManager>
 
-        <div class="navbar navbar-inverse navbar-fixed-top">
+        I<div class="navbar navbar-inverse navbar-fixed-top">
             <div class="container">
                 <div class="navbar-header">
                     &nbsp;Green Team
@@ -71,8 +71,9 @@
         <div class="container body-content">
             <asp:ContentPlaceHolder ID="MainContent" runat="server">
             </asp:ContentPlaceHolder>
-            <hr />
             <footer>
+                <p>&nbsp;</p>
+                <p>One small action of kindness is sufficient for drastic and meaningful change for the better</p>
                 <p>&copy; <%: DateTime.Now.Year %> - Green Team 2018</p>
             </footer>
         </div>
