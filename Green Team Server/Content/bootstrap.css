@@ -335,8 +335,9 @@ textarea {
 }
 
 a {
-  color: #428bca;
+  color: #808080;
   text-decoration: none;
+    font-size: large;
 }
 
 a:hover,
@@ -4146,6 +4147,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 .container > .navbar-collapse {
   margin-right: -15px;
   margin-left: -15px;
+    height: 48px;
 }
 
 @media (min-width: 768px) {
