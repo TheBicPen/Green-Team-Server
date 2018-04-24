@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="WebForm4.aspx.cs" Inherits="Green_Team_Server.WebForm4" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="GG.aspx.cs" Inherits="Green_Team_Server.WebForm4" %>
 
 <!DOCTYPE html>
 
